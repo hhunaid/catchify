@@ -1,6 +1,6 @@
 {
   "name": "catchify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A collection of front end files to kickstart projects",
   "main": "js/index.js",
   "scripts": {
@@ -31,9 +31,6 @@
     "node.normalize.scss": "^3.0.3",
     "postcss-cli": "^3.0.0-beta",
     "prettier": "^1.8.2"
-  },
-  "engines": {
-    "node": "~6.0.0"
   },
   "devDependencies": {
     "babel-preset-node6": "^11.0.0",
